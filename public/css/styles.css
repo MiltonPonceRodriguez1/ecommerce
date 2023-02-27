@@ -1,0 +1,35 @@
+.brand-logo {
+    color: #fafafa !important;
+    text-shadow: 3px 2px 3px black !important;
+    padding-left: 1% !important;
+}
+
+.content {
+  min-height: 90vh;
+}
+
+.title_page {
+   margin-top: 4rem;
+   margin-bottom: 2rem;
+}
+
+.error-product{
+  font-size: 20px;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.progress {
+  background-color: #afacec !important;
+}
+
+.progress .indeterminate {
+  background-color: #1d35d2 !important;
+}
+
+
+.product-price {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+}
